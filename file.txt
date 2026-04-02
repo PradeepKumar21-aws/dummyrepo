@@ -3,3 +3,5 @@ second in main
 third line in feature
 fourth line in feature
 last line in feature
+latest update 1
+latest update 2
